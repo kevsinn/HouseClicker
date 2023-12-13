@@ -1,0 +1,82 @@
+-c
+-pipe
+-I"."
+-I"Runtime/Core/Public"
+-I"Runtime/Core/Internal"
+-I"Runtime/TraceLog/Public"
+-isystem"C:/Users/Yarik/AppData/Local/Android/Sdk/ndk/25.1.8937393/sources/android/native_app_glue"
+-isystem"C:/Users/Yarik/AppData/Local/Android/Sdk/ndk/25.1.8937393/sources/android/cpufeatures"
+-Wall
+-Werror
+-Wdelete-non-virtual-dtor
+-Wenum-conversion
+-Wbitfield-enum-conversion
+-Wno-enum-enum-conversion
+-Wno-enum-float-conversion
+-Wno-unused-but-set-variable
+-Wno-unused-but-set-parameter
+-Wno-ordered-compare-function-pointers
+-Wno-bitwise-instead-of-logical
+-Wno-gnu-string-literal-operator-template
+-Wno-inconsistent-missing-override
+-Wno-invalid-offsetof
+-Wno-switch
+-Wno-tautological-compare
+-Wno-unknown-pragmas
+-Wno-unused-function
+-Wno-unused-lambda-capture
+-Wno-unused-local-typedef
+-Wno-unused-private-field
+-Wno-unused-variable
+-Wno-undefined-var-template
+-Wno-unused-value
+-Wdate-time -Wno-error=date-time
+-Wshadow
+-Wundef
+-Wno-float-conversion
+-Wno-implicit-float-conversion
+-Wno-implicit-int-conversion
+-Wno-c++11-narrowing
+-fdiagnostics-absolute-paths
+-fdiagnostics-color
+-fdiagnostics-format=msvc
+-Wno-local-type-template-args
+-Wno-return-type-c-linkage
+-Wno-reorder
+-Wno-logical-op-parentheses
+-Wno-nonportable-include-path
+-fno-delete-null-pointer-checks
+-O3
+-fno-exceptions
+-DPLATFORM_EXCEPTIONS_DISABLED=1
+-g2
+-gdwarf-4
+-fstack-protector-strong
+-ffunction-sections
+-fdata-sections
+-fvisibility=hidden
+-fvisibility-inlines-hidden
+-fno-rtti
+-no-canonical-prefixes
+-fno-PIE
+-funwind-tables
+-fPIC
+-fno-strict-aliasing
+-fno-short-enums
+-fforce-emit-vtables
+-D_FORTIFY_SOURCE=2
+-DPLATFORM_USED_NDK_VERSION_INTEGER=26
+-DPLATFORM_64BITS=1
+ --target=aarch64-none-linux-android26 --gcc-toolchain="C:/Users/Yarik/AppData/Local/Android/Sdk/ndk/25.1.8937393\toolchains/llvm\prebuilt/windows-x86_64" --sysroot="C:/Users/Yarik/AppData/Local/Android/Sdk/ndk/25.1.8937393/toolchains/llvm/prebuilt/windows-x86_64/sysroot" -DANDROID=1
+-D__arm64__
+-DPLATFORM_ANDROID_ARM64=1
+-march=armv8-a
+-fsigned-char
+-include-pch "F:/GAME DEV STUFF/UnrealProjects/TownClicker/Intermediate/Build/Android/a/MyProject/Shipping/Core/SharedPCH.Core.Cpp17.h.gch"
+-include "F:/GAME DEV STUFF/UnrealProjects/TownClicker/Intermediate/Build/Android/a/UnrealGame/Shipping/MyProject/Definitions.MyProject.h"
+-x c++
+-std=c++17
+-fpch-validate-input-files-content
+"F:/GAME DEV STUFF/UnrealProjects/TownClicker/Intermediate/Build/Android/a/UnrealGame/Shipping/MyProject/Module.MyProject.cpp"
+-MD -MF"F:/GAME DEV STUFF/UnrealProjects/TownClicker/Intermediate/Build/Android/a/UnrealGame/Shipping/MyProject/Module.MyProject.cpp.d"
+-o "F:/GAME DEV STUFF/UnrealProjects/TownClicker/Intermediate/Build/Android/a/UnrealGame/Shipping/MyProject/Module.MyProject.cpp.o"
