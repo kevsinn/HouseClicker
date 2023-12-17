@@ -1,8 +1,0 @@
-,**** Particle Performance Stats
-,Name,Average PerFrame GameThread,Average PerInstance GameThread,Average PerFrame RenderThread,Average PerInstance RenderThread,NumFrames,Total Instances,Total Tick GameThread,Total Tick Concurrent,Total Finalize,Total End Of Frame,Total Render Update,Total Get Dynamic Mesh Elements,Max PerFrame GameThread,Max Range PerFrame GameThread,Max PerFrame RenderThread,Max Range PerFrame RenderThread
-,** Per System Stats
-,VolumetricCloud_LightRays,61,61,0,0,1,1,12,49,0,0,0,0,61,[ 61 0 0 0 0 0 0 0 0 0 ],0,[ 0 0 0 0 0 0 0 0 0 0 ]
-,NS_CoinBlast,15471,3867,243,121,1,4,15468,0,0,3,0,243,15471,[ 15471 0 0 0 0 0 0 0 0 0 ],121,[ 243 0 0 0 0 0 0 0 0 0 ]
-,NS_EarthlyHail,0,0,0,0,0,0,0,0,0,0,0,0,0,[ 0 0 0 0 0 0 0 0 0 0 ],0,[ 0 0 0 0 0 0 0 0 0 0 ]
-,NS_RagingSpikes,0,0,0,0,0,0,0,0,0,0,0,0,0,[ 0 0 0 0 0 0 0 0 0 0 ],0,[ 0 0 0 0 0 0 0 0 0 0 ]
-,NS_BoulderBlast,0,0,0,0,0,0,0,0,0,0,0,0,0,[ 0 0 0 0 0 0 0 0 0 0 ],0,[ 0 0 0 0 0 0 0 0 0 0 ]
