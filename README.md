@@ -34,5 +34,5 @@
 ![MyProject Preview  NetMode_ Standalone 0  (64-bit_PC D3D SM6) 2023-12-17 20-49-46 (online-video-cutter com)](https://github.com/kevsinn/TownClicker/assets/151339709/e43e4628-527a-442f-8a07-084e9cda0999)
 ### -You can buy passive income in the upgrade menu.
 ![MyProject Preview  NetMode_ Standalone 0  (64-bit_PC D3D SM6) 2023-12-17 20-54-39 (online-video-cutter com)](https://github.com/kevsinn/TownClicker/assets/151339709/16e13718-e00e-4a76-891e-ac5a89d54df9)
-### -You can improve the house and thus change its appearance.
+### -You can improve the house and thus change its appearance and increase your passive income twice.
 ![MyProject Preview  NetMode_ Standalone 0  (64-bit_PC D3D SM6) 2023-12-17 20-59-13 (online-video-cutter com)](https://github.com/kevsinn/TownClicker/assets/151339709/8cf7af1f-f3a8-43e1-892e-6981c454803a)
