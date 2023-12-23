@@ -1,1 +1,0 @@
-{ global: Java_*; ANativeActivity_onCreate; JNI_OnLoad; local: *; };
