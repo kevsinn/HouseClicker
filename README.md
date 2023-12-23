@@ -4,7 +4,7 @@
 ## Description
 
 
-### The TownClicker is an ordinary clicker game, of which there are many in Google Play and App Store.
+### The HouseClicker is an ordinary clicker game, of which there are many in Google Play and App Store.
 
 
 ## Prerequisites
