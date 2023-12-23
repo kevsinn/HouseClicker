@@ -1,4 +1,0 @@
-com.sbpdev.townclicker
-1
-0.2b
-name='com.epicgames.unreal.GameActivity.AppType' value=''
